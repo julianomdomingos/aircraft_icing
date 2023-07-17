@@ -1,5 +1,5 @@
 # aircraft_icing
-Product: Icing Flight Test Instrumentation System simulator
+Product: SIMULATOR OF AN ICING INSTRUMENTATION SYSTEM
 
 Technical Production of the master's thesis: Preliminary design of an in-flight icing condition measurement system for flight test instrumentation
 Available in the Unifesp repository (https://repositorio.unifesp.br/handle/11600/65316). This content is public.
