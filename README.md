@@ -11,7 +11,7 @@ Descrição do produto e de sua finalidade: (até 50 palavras) _________________
 Avanços tecnológicos/grau de novidade:
 ( ) Produção com alto teor inovativo: Desenvolvimento com base em conhecimento inédito; 
 ( ) Produção com médio teor inovativo: Combinação de conhecimentos pré-estabelecidos; 
-( )Produção com baixo teor inovativo: Adaptação de conhecimento existente; 
+(X)Produção com baixo teor inovativo: Adaptação de conhecimento existente; 
 ( ) Produção sem inovação aparente: Produção técnica. 
 
 Modalidade: 
@@ -20,26 +20,26 @@ Modalidade:
 ( ) Material de referência 
 ( ) Cepas não patenteadas 
 ( ) Produtos naturais 
-( ) Outro: _______________ 
+(X) Outro: Simulador
 
-Titular: 
+Titular: Juliano Martins Domingos
 Co-titulares: 
 
 Avaliação do núcleo de inovação: 
 ( ) sim 
-( ) não 
+(X) não 
 
 Há licenciamento: 
 ( ) sim 
-( ) não 
+(X) não 
 
-Inventores/autores: 
-Docentes Autores 
-Discentes Autores 
-Demais Autores 
+Inventores/autores: Juliano Martins Domingos
+Docentes Autores: Paulo Lourenção
+Discentes Autores: Juliano Martins Domingos    
+Demais Autores:
 
 Conexão com a Pesquisa 
-Projeto de Pesquisa vinculado à produção:_________________________ 
+Projeto de Pesquisa vinculado à produção:  
 Linha de Pesquisa vinculada à produção:___________________________ 
 ( ) Projeto isolado, sem vículo com o Programa de Pós-graduação Conexão com a Produção Científica Relacione os artigos publicados apenas em periódicos que estão co-relacionados a esta produção: 
 a) Título: __________________________________________________________ 
