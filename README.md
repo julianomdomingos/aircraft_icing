@@ -23,4 +23,4 @@ main page of the simulator, which is divided into subsystems:
 
 The Cloud subsystem generates random values for the LWC and MVD parameters. The indicated boxes must be programmed with the values of the various ranges. The Air Temperature box generates a fixed temperature value for the simulation. The aircraft provides Airspeed, AOA (Angle of Attack), and Pressure Altitude values for Data Acquisition. The Ice Accretion sensor has as its structure a fixed value of impingement ratio in millimeters per second (mm/s) that can be programmed for each simulation. This is a sensor that needs to be developed for an aircraft installation. 
 Data Processing is a subsystem with a few logical boxes: Equivalent time, Ice Envelope Conditions, and Data Recorder. The Equivalent Timebox is responsible for counting the test time that the aircraft was within the Startiform clouds test envelope of Appendix C - FAR 25.
-
+Attached in this repository is the Matlab file for this product (IcingFTISystem_simulator_rev0.slx).
